@@ -6,5 +6,4 @@ city_name = input("What city did you grew up in? \n")
 pet_name = input("What's the name of your pet? \n")
 #4. Combine the name of their city and pet and show them their band name.
 print("Your band name could potentially be: "+city_name +" "+pet_name)
-#5. Make sure the input cursor shows on a new line, see the example at:
-#   https://replit.com/@appbrewery/band-name-generator-end
+
